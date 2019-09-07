@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mahmooghub.cydshare.top/sitemap.xml
